@@ -175,7 +175,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #102542;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -3255,7 +3255,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #DEF2E9;
 		}
 
 		.wrapper.style1-alt {
@@ -3278,7 +3278,7 @@ input, select, textarea {
 			background-color: #953d75;
 		}
 		.wrapper.style4 {
-			background-color: #53A353;
+			background-color: #FFFF88;
 		}
 
 		.wrapper.fullscreen {
@@ -3900,6 +3900,7 @@ input, select, textarea {
 
 		#intro p {
 			font-size: 1.25em;
+			color: #102542;
 		}
 
 			@media screen and (max-width: 980px) {
